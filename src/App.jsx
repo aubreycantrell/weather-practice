@@ -9,7 +9,8 @@ function App() {
   return (
     <>
       <h1>Weather Patterns</h1>
-      <div><p> fun facts about weather</p>
+      <div><p> types of
+         weather</p>
       <ul>
         <li>snow</li>
         <li>rain</li>
